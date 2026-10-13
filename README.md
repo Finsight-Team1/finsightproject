@@ -1,2 +1,3 @@
 # finsightproject
 FinSight: An AI financial assistant for SME owners. It calculates revenue, expenses, profit, cash flow, trends and anomalies from transaction records, and uses RAG to answer questions with supporting evidence.
+
